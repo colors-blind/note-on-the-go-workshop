@@ -27,3 +27,4 @@ func main() {
 	var ctime time.Time
 	PrintDiff(ctime)
 }
+
